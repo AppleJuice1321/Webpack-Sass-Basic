@@ -1,0 +1,10 @@
+.primaryMenu {
+	position: fixed;
+	top: 0;
+	right: -19em;
+	height: 100%;
+	width: 19em;
+	background-color: moccasin;
+	color: black;
+	transition: right 700ms cubic-bezier(.59,-0.47,.41,1.78);
+}
